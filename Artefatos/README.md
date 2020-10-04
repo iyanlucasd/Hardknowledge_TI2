@@ -1,16 +1,13 @@
 # Artefatos do projeto
 
-Este diretório mantém os artefatos do projeto. 
+## Artefatos criados no TI 2
 
+* `/Codigo/database`
+	* **processador.csv**: Banco de dados das peças disponíveis no comparador.
+	* **admin.csv**: Bando de dados do login de administradores do site
+* `/Codigo/database/DumpXXXX-XX-XX`
+	* **TI2CC_admin.sql**: Script do banco de dados do admin do site
+	* **TI2CC_processador.sql**: Script do banco de dados das peças
 
-Liste os artefatos produzidos, com suas localizações e descrição do conteúdo.
+>*Nota: O diretório **"Dump"** possui números no nome o qual se referem à versão do BD, está no formato **AAAA-MM-DD**.*
 
-Por exemplo, pode-se criar um diretório "atas", que seria descrito da seguinte forma:
-* `/atas`
-	* **Ata_xx_ago_2020.docx**: Ata de reunião do dia xx de agosto de 2020.
-
-Pode-se também criar um diretório "canvas", que seria descrito da seguinte forma:
-* `/canvas`
-	* **BusinessModelCanvas.pdf**: Canvas do modelo de negócios.
-
-Assim, sucessivamente para outros artefatos como `processos` e `DER`, etc.
